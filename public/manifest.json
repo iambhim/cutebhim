@@ -1,0 +1,28 @@
+{
+  "name": "CuteBhim - Share Your World",
+  "short_name": "CuteBhim",
+  "description": "Share your moments, connect with the world on CuteBhim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "photo"],
+  "lang": "en",
+  "dir": "ltr",
+  "screenshots": []
+}
